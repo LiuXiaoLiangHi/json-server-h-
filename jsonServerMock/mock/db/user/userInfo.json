@@ -1,0 +1,49 @@
+{
+  "userInfo": [
+    {
+      "uu_id": "E3D8AB7D-82BC-3804-D3CB-EDB4EBA8EF4D",
+      "account": "a123456",
+      "name": "刘小亮",
+      "password": "123456aA",
+      "introduction": "我是超级管理员",
+      "mobile": 18770640208,
+      "isLogined": false,
+      "avatar": "https://wpimg.wallstcn.com/f778738c-e4f8-4870-b634-56703b4acafe.gif",
+      "roles": [
+        "admin"
+      ],
+      "isAllowDeleteUSer": false,
+      "router": []
+    },
+    {
+      "uu_id": "FC0B55E8-B054-4F39-38C9-3DC8260D1740",
+      "account": "editor123",
+      "name": "张三",
+      "password": "123456aA",
+      "introduction": "我是普通用户",
+      "mobile": 18460007401,
+      "isLogined": false,
+      "avatar": "../static/cat.gif",
+      "roles": [
+        "editor"
+      ],
+      "isAllowDeleteUSer": true,
+      "router": []
+    },
+    {
+      "uu_id": "cd591985-282a-4830-a5b2-f110e88d387b",
+      "account": "a123456q",
+      "name": "",
+      "password": "12345678aA",
+      "introduction": "",
+      "mobile": 13667962357,
+      "isLogined": false,
+      "avatar": "",
+      "roles": [
+        "editor"
+      ],
+      "isAllowDeleteUSer": true,
+      "router": []
+    }
+  ]
+}
